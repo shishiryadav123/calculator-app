@@ -11,3 +11,5 @@ Error handling for invalid operations
 Requirements:  
 Python 3.6 or higher  
 Tkinter (usually comes pre-installed with Python)
+
+![Calculator Screenshot](screenshot1-calculator.png)
