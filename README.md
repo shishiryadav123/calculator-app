@@ -13,3 +13,7 @@ Python 3.6 or higher
 Tkinter (usually comes pre-installed with Python)
 
 ![Calculator Screenshot](screenshot1-calculator.png)
+![Calculator Screenshot](screenshot2-calculator.png)
+![Calculator Screenshot](screenshot3-calculator.png)
+
+
