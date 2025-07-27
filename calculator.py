@@ -5,7 +5,7 @@ import math
 class Calculator:
     def __init__(self):
         self.window = tk.Tk()
-        self.window.title("Basic Calculator")
+        self.window.title("Basic Calculator application")
         self.window.geometry("300x400")
         self.window.resizable(False, False)
         
